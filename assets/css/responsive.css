@@ -93,6 +93,22 @@
     .btn-share { 
         font-size: 30px;
     }
+    .button-group2 .btn-google-play, .button-group2 .btn-apple-play { 
+        width: 400px;
+    }
+    .d-flex-centro {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    .download-app{
+        width: 90%;
+        text-align: left;
+    }
+    .content {
+        padding-left: 200px;
+    }
 }
 
 @media screen and (max-width:992px) {
@@ -348,8 +364,7 @@
         background-color: #0000003D;
         height: 100%;
         top: 0px;
-        left: 0px;
-
+        left: 0px; 
         bottom: 0px;
         z-index: 0;
     }
