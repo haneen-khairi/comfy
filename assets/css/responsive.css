@@ -390,5 +390,22 @@
         display: flex;
         flex-direction: column-reverse;
      }
-
+     .social-icons a i {
+        font-size: 15px;
+    }
+    
+}
+@media screen and (min-width:1400px) {
+    .banner-section {
+        height: 100%;
+        position: relative;
+        min-height: 950px;
+    }
+    h1 {
+        font-size: 8.5rem;
+    }
+    .button-group .btn-google-play, .button-group .btn-apple-play { 
+        max-width: 250px;
+        padding: 20px 20px;
+    }
 }
