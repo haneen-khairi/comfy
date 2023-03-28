@@ -408,4 +408,17 @@
         max-width: 250px;
         padding: 20px 20px;
     }
+    .mainMenu li a {
+        padding: 10px 30px;
+        font-size: 25px;
+    }
+    .menu2 {
+        padding: 15px;
+    }
+    .logo {
+        width: 250px;
+    }
+    .logo-container {
+        padding: 30px;
+    }    
 }
