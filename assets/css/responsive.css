@@ -1,3 +1,100 @@
+@media screen and (min-width:1400px) {
+    .banner-section {
+        height: 100%;
+        position: relative;
+        min-height: 950px;
+    }
+    h1 {
+        font-size: 8.5rem;
+    }
+    .button-group .btn-google-play, .button-group .btn-apple-play { 
+        max-width: 250px;
+        padding: 20px 20px;
+    }
+    .mainMenu li a {
+        padding: 10px 30px;
+        font-size: 25px;
+    }
+    .menu2 {
+        padding: 25px;
+    }
+    .logo {
+        width: 250px;
+    }
+    .logo-container {
+        padding: 30px;
+    }    
+    header {
+        height: 80px;
+    }
+    .button-group .btn-google-play b, .button-group .btn-apple-play b {
+        font-size: 30px;
+    }
+    .btn-google-play span, .btn-apple-play span {
+        font-size: 20px;
+    }
+    .button-group .btn-google-play, .button-group .btn-apple-play {
+        min-width: 300px;
+        padding: 15px 25px;
+    }
+    .button-group .btn-google-play img, .button-group .btn-apple-play img {
+        width: 60px;
+    }
+    .content p {
+        font-size: 32px;
+    }
+    .social-icons a i {
+        font-size: 1.7rem;
+    }
+    .social-icons a {
+        margin: 15px 0px;
+    }
+    .line-horizental { 
+        height: 450px; 
+        top: 300px;
+        margin-left: 20px;
+    }
+    .swiper-slide img {
+        width: 200px !important;
+    }
+    h2 {
+        font-size: 3.5rem;
+    }
+    .content2 h2>span { 
+        font-size: 30px;
+    }
+    p {
+        font-size: 25px;
+    }
+    .content3 p{
+        font-size: 30px;
+    }
+    .content3 h2 {
+        font-size: 3.8rem;
+    }
+    .bg-banner { 
+        margin: 40px 0px;
+    }
+    .lg-num {
+        font-size: 7rem;
+    }
+    .box-content .lar-num { 
+        font-size: 2.5rem;
+    }
+    .box-content p {
+        font-size: 30px;
+    }
+    .download-app h3 span {
+        font-size: 5rem;
+    }
+    .img-barcode {
+        width: 250px;
+    }
+    .btn-share { 
+        font-size: 30px;
+    }
+}
+
 @media screen and (max-width:992px) {
     h1 {
         font-size: 3.5rem;
@@ -394,31 +491,4 @@
         font-size: 15px;
     }
     
-}
-@media screen and (min-width:1400px) {
-    .banner-section {
-        height: 100%;
-        position: relative;
-        min-height: 950px;
-    }
-    h1 {
-        font-size: 8.5rem;
-    }
-    .button-group .btn-google-play, .button-group .btn-apple-play { 
-        max-width: 250px;
-        padding: 20px 20px;
-    }
-    .mainMenu li a {
-        padding: 10px 30px;
-        font-size: 25px;
-    }
-    .menu2 {
-        padding: 15px;
-    }
-    .logo {
-        width: 250px;
-    }
-    .logo-container {
-        padding: 30px;
-    }    
 }
